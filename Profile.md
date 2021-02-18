@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mithul-Joseph
+- 👋 Hi, I’m Mithul Joseph Mathew.
 - 👀 I’m interested in AI, machine learning, robotics.
 - 🌱 I’m currently learning Reinforcement Learning
 - 📫 Reach me @http://www.linkedin.com/in/mithul-joseph
