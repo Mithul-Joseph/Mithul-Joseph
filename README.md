@@ -1,7 +1,7 @@
 # About
 - 👋 Hi, I’m Mithul-Joseph-Mathew
 - 👀 I’m interested in AI, Data Science, Machine Learning.
-- 🌱 I’m currently learning Tableau.
+- 🌱 I’m currently learning about Generative AI.
 - 📫 You can reach me at http://www.linkedin.com/in/mithul-joseph
 
 # Portfolio
