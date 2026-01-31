@@ -5,7 +5,7 @@
 - 📫 You can reach me at http://www.linkedin.com/in/mithul-joseph
 
 # Portfolio
-Showcasing some of the work that I have done in the field of Machine Learning and Data Science.
+__[Showcasing some of the work that I have done in the field of Artificial Intelligence here](https://mithul-joseph.github.io/)__.
 
 ## Machine Learning
 - ### Classification
